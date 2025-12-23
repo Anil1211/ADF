@@ -1,0 +1,9 @@
+{
+	"name": "adpdatafactorydev-v1",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c0116cf0-8b07-48dd-b284-f846737e30dd",
+		"tenantId": "763b2760-45c5-46d3-883e-29705bba49b7"
+	}
+}
